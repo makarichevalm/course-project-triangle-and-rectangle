@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Figure.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Triangle.cpp
+D:\рабочий стол\1 курс\C++\курсовая 1 курс\Figure\Triangle.cpp(8,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\рабочий стол\1 курс\C++\курсовая 1 курс\Figure\Triangle.cpp(10,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\рабочий стол\1 курс\C++\курсовая 1 курс\Figure\Triangle.cpp(22,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\рабочий стол\1 курс\C++\курсовая 1 курс\Figure\Triangle.cpp(24,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Figure.vcxproj -> D:\рабочий стол\1 курс\C++\курсовая 1 курс\Figure\Debug\20VP1_18.exe
